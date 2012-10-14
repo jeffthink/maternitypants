@@ -1,5 +1,7 @@
 # maternitypants
 
+*giving your textareas some room to grow (or let go) since 2012*
+
 maternitypants is a jquery plugin written in coffeescript that gives applications edit-in-place functionality, 
 but with an expandable textarea that grows as you type
 
