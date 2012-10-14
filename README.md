@@ -27,7 +27,7 @@ My lovely (and pregnant) wife Liz
 
 ## Thanks
 
-Many thinks to @tuupola and @bgrins, which I based this plugin's functionality off of, to @neilj whose 
+Many thinks to @tuupola and @bgrins, which I based this plugin's functionality and code off of, to @neilj whose 
 alistapart article (http://www.alistapart.com/articles/expanding-text-areas-made-elegant/) made this plugin 
 (or at least half of it) possible, and @minijs, whose code helped me set up a jquery plugin in coffeescript 
 (though, I later found his boilerplate https://github.com/miniJs/miniBoilerplate that's even better).
