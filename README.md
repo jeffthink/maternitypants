@@ -1,9 +1,11 @@
 # maternitypants
 
-*giving your textareas some room to grow (or let go) since 2012*
+Maternitypants is a jquery plugin written in coffeescript that gives applications edit-in-place functionality, 
+but with an expandable textarea that grows as you type.
 
-maternitypants is a jquery plugin written in coffeescript that gives applications edit-in-place functionality, 
-but with an expandable textarea that grows as you type
+I found this useful as I was creating an experimental web app that enabled customizable "sticky notes" alongside of song lyrics.
+
+Note that this is quite out of date (in large part because of the wonderful advances in javascript since 2012!), but am leaving it up in case anyone finds it useful.
 
 ## Technical Inspiration
 
@@ -15,7 +17,7 @@ decided to build my own jquery plugin to arrange a better marriage.
 
 ## Name inspiration
 
-My lovely (and pregnant) wife Liz
+My lovely (and then very pregnant) wife
 
 ## Notes
 
